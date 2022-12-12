@@ -5,6 +5,7 @@ Here, you need to run Frontend and Backend separately. Steps for installation in
 
 # ER Diagram for the Database Design
 
+![image](https://user-images.githubusercontent.com/66771301/207130587-26b130a3-b9dc-459f-b011-2e40f24877d8.png)
 
 
 # Website Demo
