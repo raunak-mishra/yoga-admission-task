@@ -7,4 +7,6 @@ Here, you need to run Frontend and Backend separately. Steps for installation in
 
 # Website Demo
 
+https://drive.google.com/file/d/1OCHv9hWLnT0IVJvAoNVsHZE0n-FO28YS/view?usp=sharing
+
 ## Cheers!
