@@ -14,7 +14,9 @@ mongoose.set('strictQuery', false);
 const DB_LINK=process.env.MONGO_URL
 
 //Middleware
-app.use(CORS())
+app.use(CORS({
+    origin: ["http://localhost:3000", "https://yoga-frontend-sxsh.onrender.com/"],
+  }))
 app.use(express.json())
 
 //Setup database
